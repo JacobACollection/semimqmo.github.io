@@ -16,4 +16,11 @@ Cargos wichtigste Aufgaben:
 
 * Abhängigkeiten verwalten <!-- .element: class="fragment" -->
 * den Rust Compiler aufrufen <!-- .element: class="fragment" -->
-* yahoooooooooo
+
+---
+
+## Ein Projekt erstellen
+\
+```bash
+cargo new hello_world
+```
