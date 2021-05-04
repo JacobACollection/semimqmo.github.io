@@ -21,7 +21,7 @@ Cargos wichtigste Aufgaben:
 
 ## Ein Projekt erstellen
 \
-test
+
 ```bash
 cargo new hello_world
 ```
