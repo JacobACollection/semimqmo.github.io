@@ -20,7 +20,8 @@ Cargos wichtigste Aufgaben:
 ---
 
 ## Ein Projekt erstellen  
-
+\
+&nbsp;
 ```bash
 cargo new hello_world
 ```
